@@ -90,4 +90,10 @@ public class LevelManager : MonoBehaviour
         yield return new WaitForSeconds(delay);
         SceneManager.LoadScene(sceneName);
     }
+
+    public void PlayAgain()
+    {
+        ScoreKeeper.Instance.ResetScore(ScoreKeeper.Instance.GetUserName(), ScoreKeeper.Instance.GetIDregion());
+        SceneManager.LoadScene("Game");
+    }
 }

@@ -21,7 +21,7 @@ public class UIGameOver : MonoBehaviour
         ASM_MN.YC1();
         ASM_MN.YC2();
         ASM_MN.YC3();
-        ASM_MN.YC4();
+        ASM_MN.YC4("");
         ASM_MN.YC5();
         ASM_MN.YC6();
         ASM_MN.YC7();

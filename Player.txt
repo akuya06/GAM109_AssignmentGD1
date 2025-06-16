@@ -1,0 +1,2 @@
+ID: 16644, Name: ay, Score: 140, Region: VN, Rank: Bạc
+ID: 3551, Name: ay, Score: 225, Region: VN, Rank: Bạc

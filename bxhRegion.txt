@@ -1,0 +1,5 @@
+Region: VN, Average Score: 182.5
+Region: VN1, Average Score: 0 (No players)
+Region: VN2, Average Score: 0 (No players)
+Region: JS, Average Score: 0 (No players)
+Region: VS, Average Score: 0 (No players)
